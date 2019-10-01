@@ -1,0 +1,2 @@
+# MyLearning
+Teaching myself C#
